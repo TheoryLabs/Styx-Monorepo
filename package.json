@@ -1,0 +1,29 @@
+{
+  "name": "@theorylabs/styx-monorepo",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/**/*"
+  ],
+  "scripts": {
+    "dev": "TODO",
+    "watch": "TODO",
+    "test": "TODO",
+    "build": "TODO",
+    "clean": "TODO",
+    "deploy": "TODO",
+    "examples": "TODO",
+    "info": "TODO",
+    "status": "TODO",
+    "check": "TODO"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "microbundle": "^0.13.3",
+    "nps": "^5.10.0",
+    "ntl": "^5.1.0",
+    "oao": "^2.0.2",
+    "scripty": "^2.0.0",
+    "ultra-runner": "^3.10.5"
+  }
+}
